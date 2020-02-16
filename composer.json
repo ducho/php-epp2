@@ -1,9 +1,9 @@
 {
-    "name": "africc/php-epp2",
+    "name": "ducho/php-epp2",
     "type": "library",
     "description": "A High Level EPP (Extensible Provisioning Protocol) TCP/SSL Client for PHP",
     "keywords": ["epp", "domains", "registrar", "registry", "client", "tcp"],
-    "homepage": "https://github.com/AfriCC/php-epp2",
+    "homepage": "https://github.com/ducho/php-epp2",
     "license": "GPL-3.0+",
     "authors": [
         {
