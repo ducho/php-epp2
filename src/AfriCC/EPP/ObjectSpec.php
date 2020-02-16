@@ -32,6 +32,9 @@ class ObjectSpec
         'secDNS' => [
             'xmlns' => 'urn:ietf:params:xml:ns:secDNS-1.1',
         ],
+        'registrar-info' => [
+            'xmlns' => 'urn:ietf:params:xml:ns:registrar-info-1.0',
+        ],
     ];
 
     public $mappings = [
